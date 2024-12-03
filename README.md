@@ -12,7 +12,7 @@
 # Conclusion
 * The maximum hydrogen that could be desorbed from the metal hydride reactor was around 750 g corresponding to a gravimetric capacity of 1.6 wt%.
 * The reactor was assumed to have not more than 15 tubes. The data for odd number of tubes was found using simualtions and was to predict the reaction fraction for its even counterpart.
-* Random Forest Regression was taken up for predictions owing to its highest accuracy as compared to the other models. The R^2 values for odd number of tubes for different models is shown below
-![Testing R^2 for Reaction Fraction for Odd Tubes](https://github.com/pratikk0501/ml-hydrogen-storage/blob/main/images/piaggio-ape-extra-cargo-loader_orig.jpg)
-* Reaction fraction of 0.6496 was obtained for the worst cases of heat transfer coefficient(200 W/m^2-K) and thermal conductivity(0.1 W/m-K), L/D of 9 and 14 tubes, resulting in length of the tubes to be around 50.86 cm.
-* Optimal combination for maintaining a constant mass flow rate of 8.5*10^-5kg/s(65 NLPM) had L/D of 11, 15 tubes, HTC of 600 W/m^2-K and thermal conductivity of 6 W/m-K.
+* Random Forest Regression was taken up for predictions owing to its highest accuracy as compared to the other models. The R<sup>2</sup> values for odd number of tubes for different models is shown below
+![Testing R^2 for Reaction Fraction for Odd Tubes](https://github.com/pratikk0501/ml-hydrogen-storage/blob/main/images/Reaction_Fraction_R2_Odd_Tubes.png)
+* Reaction fraction of 0.6496 was obtained for the worst cases of heat transfer coefficient(200 W/m<sup>2</sup>-K) and thermal conductivity(0.1 W/m-K), L/D of 9 and 14 tubes, resulting in length of the tubes to be around 50.86 cm.
+* Optimal combination for maintaining a constant mass flow rate of 8.5*10<sup>-5</sup> kg/s(65 NLPM) had L/D of 11, 15 tubes, HTC of 600 W/m<sup>2</sup>-K and thermal conductivity of 6 W/m-K.
