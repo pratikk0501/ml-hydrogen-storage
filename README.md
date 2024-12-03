@@ -1,7 +1,7 @@
 # ml-hydrogen-storage
 ![Light Duty Vehicle example](https://github.com/pratikk0501/ml-hydrogen-storage/blob/main/images/piaggio-ape-extra-cargo-loader_orig.jpg)
 # Project Description
-* This is the Masters' Thesis project titled 'Machine Learning based Designing of Hydrogen Storage' done under the guidance of Prof. Pratibha Sharma, IIT Bombay.
+* This is the Master's Thesis project titled 'Machine Learning based Designing of Hydrogen Storage' done under the guidance of Prof. Pratibha Sharma, IIT Bombay.
 * The project focuses on the optimisation of hydrogen reactor design for a Light Duty Vehicle using machine learning.
 # Project Features
 * The reactor provided hydrogen to a PEM fuel cell stack through desorption, where it was converted to electrical energy before being fed to the vehicle engine.
