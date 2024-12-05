@@ -2,7 +2,7 @@
 ![Light Duty Vehicle example](https://github.com/pratikk0501/ml-hydrogen-storage/blob/main/images/piaggio-ape-extra-cargo-loader_orig.jpg)
 # Project Description
 * This is the Master's Thesis project titled 'Machine Learning based Designing of Hydrogen Storage' done under the guidance of Prof. Pratibha Sharma, IIT Bombay.
-* The project focuses on the optimisation of hydrogen reactor design for a Light Duty Vehicle using machine learning.
+* The project is focused on the optimisation of hydrogen reactor design for a Light Duty Vehicle using machine learning.
 # Project Features
 * The reactor provided hydrogen to a PEM fuel cell stack through desorption, where it was converted to electrical energy before being fed to the vehicle engine.
 * The parameters of the reactor that were used for optimising its design were: length-to-diameter ratio of the tubes, the number of tubes in the reactor, the heat transfer coefficient, and the thermal conductivity. Simulation was done in COMSOL Multiphysics with these four parameters for a period of six hours to study the variation of reaction fraction and mass flow rate.
